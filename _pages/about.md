@@ -32,9 +32,9 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学术经历
-- *2021.11 - 2023.12*, <a href="https://www.gzhu.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 广州大学 心理学系, 博士后
-- *2018.09 - 2021.06*, <a href="https://www.cityu.edu.mo/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 澳门城市大学 应用心理学系, 博士 
-- *2016.09 - 2018.07*, <a href="https://www.cityu.edu.mo/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 澳门城市大学 教育学院,  硕士
+- *2021.11 - 2023.12*, <a href="https://www.gzhu.edu.cn/"><img class="svg" src="/images/gzhu_logo.png" width="23pt"></a> 广州大学 心理学系, 博士后
+- *2018.09 - 2021.06*, <a href="https://www.cityu.edu.mo/"><img class="svg" src="/images/cityu_logo.jpeg" width="23pt"></a> 澳门城市大学 应用心理学系, 博士 
+- *2016.09 - 2018.07*, <a href="https://www.cityu.edu.mo/"><img class="svg" src="/images/cityu_logo.jpeg" width="20pt"></a> 澳门城市大学 教育学院,  硕士
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -91,4 +91,5 @@ redirect_from:
 - 蔡乐恩 -- 2025本科生（应用心理学）
 - 谢佳洋 -- 2025本科生（应用心理学）
   
+
 
