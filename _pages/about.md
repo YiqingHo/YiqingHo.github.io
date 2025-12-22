@@ -36,7 +36,7 @@ redirect_from:
 - *2018.09 - 2021.06*, <a href="https://www.cityu.edu.mo/"><img class="svg" src="/cityu_logo.jpeg" width="23pt"></a> 澳门城市大学 应用心理学系, 博士 
 - *2016.09 - 2018.07*, <a href="https://www.cityu.edu.mo/"><img class="svg" src="/cityu_logo.jpeg" width="20pt"></a> 澳门城市大学 教育学院,  硕士
  
-<span class='anchor' id='-zylw''</span>
+<span class='anchor' id='-zylw'></span>
 
 # 📝 主要论文
 
@@ -91,6 +91,7 @@ redirect_from:
 - 谢佳洋 -- 2025本科生（应用心理学）
 - 宋雨璐 -- 2024本科生（应用心理学）发表论文1篇
   
+
 
 
 
