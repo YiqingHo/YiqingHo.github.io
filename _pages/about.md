@@ -29,14 +29,14 @@ redirect_from:
   
 
 
-<span class='anchor' id='-xl'></span>
+<span class='anchor' id='-xsjl'></span>
 
 # 🎓 学术经历
 - *2021.11 - 2023.12*, <a href="https://www.gzhu.edu.cn/"><img class="svg" src="/gzhu_logo.png" width="23pt"></a> 广州大学 心理学系, 博士后
 - *2018.09 - 2021.06*, <a href="https://www.cityu.edu.mo/"><img class="svg" src="/cityu_logo.jpeg" width="23pt"></a> 澳门城市大学 应用心理学系, 博士 
 - *2016.09 - 2018.07*, <a href="https://www.cityu.edu.mo/"><img class="svg" src="/cityu_logo.jpeg" width="20pt"></a> 澳门城市大学 教育学院,  硕士
  
-<span class='anchor' id='-lwzl'></span>
+<span class='anchor' id='-zylw''</span>
 
 # 📝 主要论文
 
@@ -79,7 +79,7 @@ redirect_from:
 - *2025.10*, INTERNATIONAL TRANSDISCIPLINARY RESEARCH CONFERENCE (INTRAC) 2025, 马来西亚吉隆坡，受邀报告
 - *2024.10*, 2024全国文化心理学学术年会，湖北荆州，受邀报告
 
-<span class='anchor' id='-gzsx'></span>
+<span class='anchor' id='-xszd'></span>
 
 # 💻 学生指导
 - 王美琪 -- 2025硕士研究生（心理健康教育）
@@ -91,6 +91,7 @@ redirect_from:
 - 谢佳洋 -- 2025本科生（应用心理学）
 - 宋雨璐 -- 2024本科生（应用心理学）发表论文1篇
   
+
 
 
 
