@@ -1,21 +1,22 @@
 # main links links
 main:
   - title: "简介"
-    url: "/yiqingho.github.io/#about-me"
+    url: "/#about-me"
 
   - title: "学术经历"
-    url: "/yiqingho.github.io/#-xsjl"
+    url: "/#-xsjl"
 
   - title: "主要论文"
-    url: "/yiqingho.github.io/#-zylw"
+    url: "/#-zylw"
 
   - title: "科研项目"
-    url: "/yiqingho.github.io/#-kyxm"
+    url: "/#-kyxm"
 
   - title: "学术会议"
-    url: "/yiqingho.github.io/#-xshy"
+    url: "/#-xshy"
 
   - title: "学生指导"
-    url: "/yiqingho.github.io/#-xszd"
+    url: "/#-xszd"
+
 
 
