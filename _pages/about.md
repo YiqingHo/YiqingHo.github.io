@@ -55,7 +55,7 @@ redirect_from:
 - **He, Y. Q.**, Liu, D. R., Guo, R. T., & Guo, S. P. Information cocoons on Short Video Platforms and its Influence on Depression among the Elderly: A Moderated Mediation Model. *Psychology Research and Behavior Management*, 2023. (SSCI, **JCR-Q1**)
 - Liang, J. Y., **He, Y. Q***., & Zhang, J. W. A Jungian Approach to Psychological Intervention: Using the Cultural Archetype of the “Gourd” Image to Support Chinese Frontline Medical Staff during COVID-19. *Psychoanalytic Psychology*, 2023. (SSCI, **JCR-Q1**)
 - Guo, R. T., & **He, Y. Q***. Narrative resilience in the cross-regional support of healthcare workers during the COVID-19 outbreak: The Chinese experiences of cultural input. *International Journal of Disaster Risk Reduction*, 2022. (SCI, **JCR-Q1**)
-- **He, Y. Q*.**, & Li, T. Death Attitudes and Death Anxiety among Medical Interns after the 2020 Outbreak of the Novel Coronavirus. *Frontiers in Psychology*, 2022. (SSCI, **JCR-Q1**)
+- He, Y. Q*., & Li, T. Death Attitudes and Death Anxiety among Medical Interns after the 2020 Outbreak of the Novel Coronavirus. *Frontiers in Psychology*, 2022. (SSCI, **JCR-Q1**)
 - **He, Y. Q.**, Liang, J. Y., Guo, S. P., & Chen, L. H. An Analysis of the Latent Class and Influencing Factors of Death Anxiety Among Han Chinese and Tibetan College Students. *OMEGA- Journal of Death and Dying*, 2022. (SSCI, JCR-Q2)
 - Liang, J. Y., & **He, Y. Q***. A Cross-Cultural Comparison of Typical Dreams among Naxi and Han Chinese Dreamers. *Dreaming*, 2022. (SSCI, JCR-Q3)
 - **He, Y. Q.**, Guo, S. P., & Guo, R. T. Health Effects of Social Capital and Psychological Capital Based on Data Simulation Model. *Wireless Communications and Mobile Computing*, 2022. (SCI, JCR-Q3)
@@ -91,6 +91,7 @@ redirect_from:
 - 谢佳洋 -- 2025本科生（应用心理学）
 - 宋雨璐 -- 2024本科生（应用心理学）发表论文1篇
   
+
 
 
 
