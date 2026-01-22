@@ -98,8 +98,8 @@ redirect_from:
 <div class="lab-intro">
   <figure>
     <img src="/lab_photo_mini.jpg" alt="实验室合照" style="display:block;margin:0 auto;width:100%;max-width:560px;height:auto;border-radius:6px;">
-    <figcaption style="text-align:center;font-size:0.95em;color:#666;">
-    <figcaption>实验室合照 / Lab group photo（可替换为你自己的图片）</figcaption>
+    <figcaption style="text-align:center;font-size:0.95em;color:#666;">实验室合照 / Lab group photo（可替换为你自己的图片）</figcaption>
+  </figure>
   </figure>
 
   <p>
@@ -113,13 +113,16 @@ redirect_from:
 
   <pre><code>
   <figure>
-    <img src="/images/lab1.jpg" alt="设备1" style="max-width:48%;height:auto;margin-right:2%;">
-    <img src="/images/lab2.jpg" alt="实验场景" style="max-width:48%;height:auto;">
-    <figcaption>设备与实验场景示例</figcaption>
+    <img src="/team_spt_01_mini.jpg" alt="团队沙盘01" style="max-width:48%;height:auto;margin-right:2%;">
+    <img src="/team_spt_02_mini.jpg" alt="团队沙盘01" style="max-width:48%;height:auto;">
+    <img src="/real_spt_01_mini.jpg" alt="实体沙盘" style="max-width:48%;height:auto;">
+    <img src="/virtual_spt_01_mini.jpg" alt="虚拟沙盘" style="max-width:48%;height:auto;">
+    <figcaption>实验场景:团队沙盘和虚拟沙盘</figcaption>
   </figure>
   </code></pre>
 </div>
 <span class='anchor' id='-sys'></span>
+
 
 
 
