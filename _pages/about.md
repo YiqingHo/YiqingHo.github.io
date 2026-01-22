@@ -91,13 +91,13 @@ redirect_from:
 - 谢佳洋 -- 2025本科生（应用心理学）
 - 宋雨璐 -- 2024本科生（应用心理学）发表论文1篇
   
-# 🧪 实验室（示例：Lab / 研究组介绍）
+# 🧪 实验室
 
 <a id="lab"></a>
 
 <div class="lab-intro">
   <figure>
-    <img src="/lab_photo_mini.jpg" alt="实验室合照" style="max-width:100%;height:auto;border-radius:6px;">
+    <img src="/lab_photo_mini.jpg" alt="实验室合照" style="max-width:80%;height:auto;border-radius:6px;">
     <figcaption>实验室合照 / Lab group photo（可替换为你自己的图片）</figcaption>
   </figure>
 
@@ -119,6 +119,7 @@ redirect_from:
   </code></pre>
 </div>
 <span class='anchor' id='-sys'></span>
+
 
 
 
