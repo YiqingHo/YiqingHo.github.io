@@ -100,7 +100,6 @@ redirect_from:
     <img src="/lab_photo_mini.jpg" alt="实验室合照" style="display:block;margin:0 auto;width:100%;max-width:560px;height:auto;border-radius:6px;">
     <figcaption style="text-align:center;font-size:0.95em;color:#666;">实验室合照 / Lab group photo（可替换为你自己的图片）</figcaption>
   </figure>
-  </figure>
 
   <p>
     本实验室（或研究组）主要关注：1) 研究主题A；2) 研究主题B；3) 教学与学生培养等。
@@ -122,6 +121,7 @@ redirect_from:
   </code></pre>
 </div>
 <span class='anchor' id='-sys'></span>
+
 
 
 
