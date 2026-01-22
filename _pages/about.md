@@ -98,16 +98,12 @@ redirect_from:
 <div class="lab-intro">
   <figure>
     <img src="/lab_photo_mini.jpg" alt="实验室合照" style="display:block;margin:0 auto;width:100%;max-width:560px;height:auto;border-radius:6px;">
-    <figcaption style="text-align:center;font-size:0.95em;color:#666;">实验室合照 / Lab group photo（可替换为你自己的图片）</figcaption>
+    <figcaption style="text-align:center;font-size:0.95em;color:#666;"> 实验室合照 </figcaption>
   </figure>
 
   <p>
     本实验室（或研究组）主要关注：1) 研究主题A；2) 研究主题B；3) 教学与学生培养等。
-    实验室目前成员包括：导师A、博士/硕士生若干、合作研究员若干。我们欢迎有志于该方向的学生或合作研究者联系加入。
-  </p>
-
-  <p>
-    若需要展示多张图片，可以按以下格式插入：
+    实验室目前成员包括：硕士生导师、本科生硕士生若干、合作研究员若干。我们欢迎有志于该方向的学生或合作研究者联系加入。
   </p>
 
   <pre><code>
@@ -116,11 +112,12 @@ redirect_from:
     <img src="/team_spt_02_mini.jpg" alt="团队沙盘01" style="max-width:48%;height:auto;">
     <img src="/real_spt_01_mini.png" alt="实体沙盘" style="max-width:48%;height:auto;">
     <img src="/virtual_spt_01_mini.png" alt="虚拟沙盘" style="max-width:48%;height:auto;">
-    <figcaption>实验场景:团队沙盘和虚拟沙盘</figcaption>
+    <figcaption>实验场景:团体沙盘和虚拟沙盘实验</figcaption>
   </figure>
   </code></pre>
 </div>
 <span class='anchor' id='-sys'></span>
+
 
 
 
