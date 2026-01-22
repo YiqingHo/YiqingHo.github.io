@@ -97,7 +97,8 @@ redirect_from:
 
 <div class="lab-intro">
   <figure>
-    <img src="/lab_photo_mini.jpg" alt="实验室合照" style="max-width:80%;height:auto;border-radius:6px;">
+    <img src="/lab_photo_mini.jpg" alt="实验室合照" style="display:block;margin:0 auto;width:100%;max-width:560px;height:auto;border-radius:6px;">
+    <figcaption style="text-align:center;font-size:0.95em;color:#666;">
     <figcaption>实验室合照 / Lab group photo（可替换为你自己的图片）</figcaption>
   </figure>
 
@@ -119,6 +120,7 @@ redirect_from:
   </code></pre>
 </div>
 <span class='anchor' id='-sys'></span>
+
 
 
 
