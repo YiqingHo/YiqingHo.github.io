@@ -114,13 +114,14 @@ redirect_from:
   <figure>
     <img src="/team_spt_01_mini.jpg" alt="团队沙盘01" style="max-width:48%;height:auto;margin-right:2%;">
     <img src="/team_spt_02_mini.jpg" alt="团队沙盘01" style="max-width:48%;height:auto;">
-    <img src="/real_spt_01_mini.jpg" alt="实体沙盘" style="max-width:48%;height:auto;">
-    <img src="/virtual_spt_01_mini.jpg" alt="虚拟沙盘" style="max-width:48%;height:auto;">
+    <img src="/real_spt_01_mini.png" alt="实体沙盘" style="max-width:48%;height:auto;">
+    <img src="/virtual_spt_01_mini.png" alt="虚拟沙盘" style="max-width:48%;height:auto;">
     <figcaption>实验场景:团队沙盘和虚拟沙盘</figcaption>
   </figure>
   </code></pre>
 </div>
 <span class='anchor' id='-sys'></span>
+
 
 
 
