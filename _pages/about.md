@@ -67,7 +67,7 @@ redirect_from:
 
 <span class='anchor' id='-kyxm'></span>
 
-# 🏛️科研项目（主持）
+# 🏛️ 科研项目（主持）
 
 - 中国博士后科学基金第73批面上项目（**国家级**）, 2023.06-2023.12.
 - 广东省哲学社会科学规划2023年度学科共建项目（省级）, 2023.09-2025.08.
@@ -91,7 +91,34 @@ redirect_from:
 - 谢佳洋 -- 2025本科生（应用心理学）
 - 宋雨璐 -- 2024本科生（应用心理学）发表论文1篇
   
+# 🧪 实验室（示例：Lab / 研究组介绍）
 
+<a id="lab"></a>
+
+<div class="lab-intro">
+  <figure>
+    <img src="/lab_photo_mini.jpg" alt="实验室合照" style="max-width:100%;height:auto;border-radius:6px;">
+    <figcaption>实验室合照 / Lab group photo（可替换为你自己的图片）</figcaption>
+  </figure>
+
+  <p>
+    本实验室（或研究组）主要关注：1) 研究主题A；2) 研究主题B；3) 教学与学生培养等。
+    实验室目前成员包括：导师A、博士/硕士生若干、合作研究员若干。我们欢迎有志于该方向的学生或合作研究者联系加入。
+  </p>
+
+  <p>
+    若需要展示多张图片，可以按以下格式插入：
+  </p>
+
+  <pre><code>
+  <figure>
+    <img src="/images/lab1.jpg" alt="设备1" style="max-width:48%;height:auto;margin-right:2%;">
+    <img src="/images/lab2.jpg" alt="实验场景" style="max-width:48%;height:auto;">
+    <figcaption>设备与实验场景示例</figcaption>
+  </figure>
+  </code></pre>
+</div>
+<span class='anchor' id='-sys'></span>
 
 
 
