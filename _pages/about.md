@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 我博士毕业于澳门城市大学 应用心理学系，主要采用人工智能技术，结合定量与定性的研究方法，深入探索人工智能与心理治疗、文化心理学以及表达性艺术治疗等领域，在国外权威期刊上发表多篇论文，主持国家级项目一项、省级青年项目一项和厅级项目一项
- <a href='https://scholar.google.com/citations?user=Aj5yE8wAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+ <img src="https://img.shields.io/badge/Citations-200-blue" alt="Citations: 200">。
 
 我的研究领域包括：
 - 人工智能与心理治疗
@@ -123,6 +123,7 @@ redirect_from:
   </figure>
   </code></pre>
 </div>
+
 
 
 
