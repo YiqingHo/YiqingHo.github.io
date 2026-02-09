@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "何旖清"
-description              : "文化心理学 表达性艺术治疗 智能沙盘 计算情感"
+description              : "文化心理学 表达性艺术治疗 智能沙盘 计算情感 人机交互"
 repository               : "yiqingho/yiqingho.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -161,6 +161,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 
