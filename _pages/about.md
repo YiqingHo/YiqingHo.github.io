@@ -38,40 +38,53 @@ redirect_from:
  
 <span class='anchor' id='-zylw'></span>
 
-# 📝 主要论文
+# 📝 研究方向及代表性论文
 
-### 英文
+### 方向1: 文化心理学（Cultural Psychology）
+聚焦文化象征、集体心理与本土文化经验，关注中国文化语境下个体心理形成、情绪体验与行为表达的心理机制，重点研究生育焦虑问题
+
 ---
-- Liu, D., Woo, C. S., Saw, S. N., & **He, Y. Q**📫. (2026). Cross-subject G-softmax deep domain generalization motor imagery classification in brain–computer interfaces. *PeerJ Computer Science*, 12, e3481. (SCI, JCR-Q2)
 - **He, Y. Q.**, Wahab, N. E. T. A., & Muhamad, H. Development and validation of the Fertility Anxiety Scale for Chinese Women: a tool for clinical and policy applications. *Journal of Psychosomatic Obstetrics & Gynecology*, 2025. (SCI/SSCI, JCR-Q2)
 - **He, Y. Q.**, Wahab, N. E. T. A., & Muhamad, H. Fertility Anxiety Among Chinese Women in the Context of Fertility Policy Relaxation: A Systematic Literature Review. *International Journal of Social Welfare*, 2025. (SSCI, JCR-Q2)
+- **He, Y. Q.**, & Liang, J. Y. Does Companion Animal attachment affect fertility intention among Young Chinese women? A mediation study. *Current Psychology*, 2024. (SSCI, **JCR-Q1**)
+- **He, Y. Q.**, Wahab, N. E. T. A., & Muhamad, H. Factors impacting fertility anxiety among Chinese young women with marital status differences. *Heliyon*, 2023. (SCIE, **JCR-Q1**)
+- **He, Y. Q.**, Chen, M. H., Guo, S. P., & Liang, J. Y. An Analysis of the Latent Profile and Influencing Factors of the Sense of the Meaning of Life Amongst Medical Students Post-COVID-19 From the Perspective of Chinese Collectivist Culture. *Current Psychology*, 2023. (SSCI, **JCR-Q1**)
+- **He, Y. Q.**, Liu, D. R., Guo, R. T., & Guo, S. P. Information cocoons on Short Video Platforms and its Influence on Depression among the Elderly: A Moderated Mediation Model. *Psychology Research and Behavior Management*, 2023. (SSCI, **JCR-Q1**)
+- Guo, R. T., & **He, Y. Q**📫. Narrative resilience in the cross-regional support of healthcare workers during the COVID-19 outbreak: The Chinese experiences of cultural input. *International Journal of Disaster Risk Reduction*, 2022. (SCI, **JCR-Q1**)
+- **He, Y. Q.** 📫, & Li, T. Death Attitudes and Death Anxiety among Medical Interns after the 2020 Outbreak of the Novel Coronavirus. *Frontiers in Psychology*, 2022. (SSCI, **JCR-Q1**)
+- **He, Y. Q.**, Liang, J. Y., Guo, S. P., & Chen, L. H. An Analysis of the Latent Class and Influencing Factors of Death Anxiety Among Han Chinese and Tibetan College Students. *OMEGA- Journal of Death and Dying*, 2022. (SSCI, JCR-Q2)
+- Liang, J. Y., & **He, Y. Q**📫. A Cross-Cultural Comparison of Typical Dreams among Naxi and Han Chinese Dreamers. *Dreaming*, 2022. (SSCI, JCR-Q3)
+- **He, Y. Q.**, & Li, T. Mediating Model of College Students’Chinese Zhongyong Culture Thinking Mode and Depressive Symptoms. *Psychology Research and Behavior Management*, 2021. (SSCI, JCR-Q2)
+- Hu, X. Y., **He, Y. Q**📫, Ma, D.Y., Zhao, S.H., Xiong, H., & Wan, G. B. Mediating Model of College Students’ Proactive Personality and Career Adaptability. *Career Development Quarterly*, 2021. (SSCI, JCR-Q3)
+- He, Y., Yin, F., **He, Y. Q.**, Shen, H. Y., Ip, K., & Zhang, J. W. A Comparative Study of Death Metaphors in Han and Tibetan Ethnic Groups. *Death Studies*, 2020. (SSCI, JCR-Q2)
+- Yin, F.#, **He, Y. Q.**#, He, Y., Shen, H.Y., & Ip, K. A Comparative Study of Death Anxiety and Death Attitudes in Han and Tibetan Ethnic Groups. *Death Studies*, 2020. (SSCI, JCR-Q2)
+
+### 方向2: 沙盘游戏、绘画治疗与心理分析（Sandplay Therapy, Art Therapy, and Psychological Analysis）
+聚焦沙盘游戏、绘画治疗等表达性治疗方法，关注象征表达、心理机制及其在临床咨询中的应用，并结合分析心理学与本土文化资源探讨心理治疗的文化适配路径
+
+---
 - **He, Y. Q.**, Hu, Y. L., **Song, Y. L.**(2024级本科生), & Liang, J. Y. Forty years of sandplay therapy research: A systematic review with insights into emerging digital applications. *Arts in Psychotherapy*, 2025. (SSCI, JCR-Q2)
 - Liang, J. Y., & **He, Y. Q**📫. Symbolic and Archetypal Significance of the Naxi Dongba View of Life in China. *Jung Journal Culture and Psyche*, 2025. (A&HCI)
 - Guo, R. T., & **He, Y. Q**📫. The evolution of images grounded in sand: Case study of a 16-yearold girl with adverse childhood experiences in sandplay therapy lacking miniatures. *Journal of Psychologists and Counsellors in Schools*, 2025. (SSCI, JCR-Q2)
 - Liang, J. Y., Pan, J. L., & **He, Y. Q**📫. Utilising sandplay therapy to support children with intellectual disabilities and complex mental health needs in China’s child welfare institutions: a case study. *International Journal of Developmental Disabilities*, 2024. (SSCI, JCR-Q2)
-- **He, Y. Q.**, & Liang, J. Y. Does Companion Animal attachment affect fertility intention among Young Chinese women? A mediation study. *Current Psychology*, 2024. (SSCI, **JCR-Q1**)
-- **He, Y. Q.**, Wahab, N. E. T. A., Muhamad, H., & Liu, D.R. The marital and fertility sentiment orientation of Chinese women and its influencing factors – An analysis based on natural language processing. *PLOS ONE*, 2024. (SCIE, **JCR-Q1**)
-- **He, Y. Q.**, Wahab, N. E. T. A., & Muhamad, H. Factors impacting fertility anxiety among Chinese young women with marital status differences. *Heliyon*, 2023. (SCIE, **JCR-Q1**)
-- **He, Y. Q.**, Chen, M. H., Guo, S. P., & Liang, J. Y. An Analysis of the Latent Profile and Influencing Factors of the Sense of the Meaning of Life Amongst Medical Students Post-COVID-19 From the Perspective of Chinese Collectivist Culture. *Current Psychology*, 2023. (SSCI, **JCR-Q1**)
-- **He, Y. Q.**, Liu, D. R., Guo, R. T., & Guo, S. P. Information cocoons on Short Video Platforms and its Influence on Depression among the Elderly: A Moderated Mediation Model. *Psychology Research and Behavior Management*, 2023. (SSCI, **JCR-Q1**)
 - Liang, J. Y., **He, Y. Q**📫., & Zhang, J. W. A Jungian Approach to Psychological Intervention: Using the Cultural Archetype of the “Gourd” Image to Support Chinese Frontline Medical Staff during COVID-19. *Psychoanalytic Psychology*, 2023. (SSCI, **JCR-Q1**)
-- Guo, R. T., & **He, Y. Q**📫. Narrative resilience in the cross-regional support of healthcare workers during the COVID-19 outbreak: The Chinese experiences of cultural input. *International Journal of Disaster Risk Reduction*, 2022. (SCI, **JCR-Q1**)
-- He, Y. Q*., & Li, T. Death Attitudes and Death Anxiety among Medical Interns after the 2020 Outbreak of the Novel Coronavirus. *Frontiers in Psychology*, 2022. (SSCI, **JCR-Q1**)
-- **He, Y. Q.**, Liang, J. Y., Guo, S. P., & Chen, L. H. An Analysis of the Latent Class and Influencing Factors of Death Anxiety Among Han Chinese and Tibetan College Students. *OMEGA- Journal of Death and Dying*, 2022. (SSCI, JCR-Q2)
-- Liang, J. Y., & **He, Y. Q**📫. A Cross-Cultural Comparison of Typical Dreams among Naxi and Han Chinese Dreamers. *Dreaming*, 2022. (SSCI, JCR-Q3)
+- Liang, J. Y., Guo, R. T., & **He, Y. Q**. A Psychological Analysis of the Imagery of Chinese Menshen. *Culture & Psychology*, 2022. (SSCI, JCR-Q3)
+
+### 方向3、人工智能与心理健康（Artificial Intelligence and Mental Health）
+关注人工智能技术在心理健康领域的应用，重点探索AI沙盘、计算情感、人机交互与人机协作在心理评估、心理干预与数字心理服务中的作用机制与实践路径。
+
+---
+- **He, Y. Q.**, He, Y, N.(2025级硕士), Song, Y. L.(2024级本科生), Liu, Q, T.(2025级本科生), & Liu, D. R. Evaluating Digital Collaboration in a Complex Systems Simulation Game: Impacts on Learning Experience, Systems Thinking, and Strategic Planning. CSCWD2026 (CCF-C). 
+- Liu, D., Woo, C. S., Saw, S. N., & **He, Y. Q**📫. Cross-subject G-softmax deep domain generalization motor imagery classification in brain–computer interfaces. *PeerJ Computer Science*, 2026. (SCI, JCR-Q2)
+- **He, Y. Q.**, Wahab, N. E. T. A., Muhamad, H., & Liu, D.R. The marital and fertility sentiment orientation of Chinese women and its influencing factors – An analysis based on natural language processing. *PLOS ONE*, 2024. (SCIE, **JCR-Q1**)
 - **He, Y. Q.**, Guo, S. P., & Guo, R. T. Health Effects of Social Capital and Psychological Capital Based on Data Simulation Model. *Wireless Communications and Mobile Computing*, 2022. (SCI, JCR-Q3)
-- Liang, J. Y., Guo, R. T., & He, Y. Q. A Psychological Analysis of the Imagery of Chinese Menshen. *Culture & Psychology*, 2022. (SSCI, JCR-Q3)
-- **He, Y. Q.**, & Li, T. Mediating Model of College Students’Chinese Zhongyong Culture Thinking Mode and Depressive Symptoms. *Psychology Research and Behavior Management*, 2021. (SSCI, JCR-Q2)
-- Hu, X. Y., **He, Y. Q**📫, Ma, D.Y., Zhao, S.H., Xiong, H., & Wan, G. B. Mediating Model of College Students’ Proactive Personality and Career Adaptability. *Career Development Quarterly*, 2021. (SSCI, JCR-Q3)
-- He, Y., Yin, F., He, Y. Q., Shen, H. Y., Ip, K., & Zhang, J. W. A Comparative Study of Death Metaphors in Han and Tibetan Ethnic Groups. *Death Studies*, 2020. (SSCI, JCR-Q2)
-- Yin, F*., He, Y. Q*., He, Y., Shen, H.Y., & Ip, K. A Comparative Study of Death Anxiety and Death Attitudes in Han and Tibetan Ethnic Groups. *Death Studies*, 2020. (SSCI, JCR-Q2)
 
 <span class='anchor' id='-kyxm'></span>
 
 # 🏛️ 科研项目（主持）
 
-- 中国博士后科学基金第73批面上项目（**国家级**）, 2023.06-2023.12.
-- 广东省哲学社会科学规划2023年度学科共建项目（省级）, 2023.09-2025.09.
+- 中国博士后科学基金面上项目（**国家级**）, 2023.06-2023.12.
+- 广东省哲学社会科学规划学科共建项目（省级）, 2023.09-2025.09.
 - 广东省教育厅创新强校青年创新人才类项目（厅级）, 2024.09-2026.08
 
 <span class='anchor' id='-xshy'></span>
@@ -91,13 +104,14 @@ redirect_from:
 
 # 💻 学生指导
 - 王美琪 -- 2025硕士研究生（心理健康教育）
-- 何茵凝 -- 2025硕士研究生（应用心理学）
+- 何茵凝 -- 2025硕士研究生（应用心理学）发表核心会议论文1篇
 - 张擎天 -- 2025硕士研究生（应用心理学临床方向）
 - 陈泳诗 -- 2024硕士研究生（应用心理学临床方向）
-- 刘倩桐 -- 2025本科生（应用心理学）
+---
+- 刘倩桐 -- 2025本科生（应用心理学）发表核心会议论文1篇
 - 蔡乐恩 -- 2025本科生（应用心理学）
 - 谢佳洋 -- 2025本科生（应用心理学）
-- 宋雨璐 -- 2024本科生（应用心理学）发表论文1篇
+- 宋雨璐 -- 2024本科生（应用心理学）发表核心期刊论文1篇，核心会议论文1篇
 
 <span class='anchor' id='-sys'></span>
 
