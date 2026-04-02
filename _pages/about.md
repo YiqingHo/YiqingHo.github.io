@@ -17,16 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我博士毕业于澳门城市大学 应用心理学系，主要采用人工智能技术，结合定量与定性的研究方法，深入探索人工智能与心理治疗、文化心理学以及表达性艺术治疗等领域，在国外权威期刊上发表多篇论文，主持国家级项目一项、省级青年项目一项和厅级项目一项
- <img src="https://img.shields.io/badge/Citations-206-blue" alt="Citations: 206">。
+我博士毕业于澳门城市大学 应用心理学系，研究聚焦于文化心理学、沙盘游戏与绘画治疗，以及人工智能赋能心理健康服务的交叉领域，重点关注AI沙盘、计算情感、人机交互与人机协作等方向。主要采用多种研究方法相结合的研究路径，探索文化情境、象征表达与智能技术在心理评估、心理干预和心理健康服务中的应用机制。近年来主持国家级项目、省级、厅级项目各1项，并在国内外学术期刊发表多篇相关研究成果。
+ <img src="https://img.shields.io/badge/Citations-227-blue" alt="Citations: 227">。
 
 我的研究领域包括：
-- 人工智能与心理治疗
+- 人工智能与心理咨询
 - 文化心理学
 - 表达性艺术治疗
 - 智能沙盘
 - 计算情感
-- 人机交互
+- 人机协作与人机交互
 
 <span class='anchor' id='-xsjl'></span>
 
@@ -63,7 +63,7 @@ redirect_from:
 聚焦沙盘游戏、绘画治疗等表达性治疗方法，关注象征表达、心理机制及其在临床咨询中的应用，并结合分析心理学与本土文化资源探讨心理治疗的文化适配路径
 
 ---
-- **He, Y. Q.**, Hu, Y. L., **Song, Y. L.**(2024级本科生), & Liang, J. Y. Forty years of sandplay therapy research: A systematic review with insights into emerging digital applications. *Arts in Psychotherapy*, 2025. (SSCI, JCR-Q2)
+- **He, Y. Q.**, Hu, Y. L., Song, Y. L.(2024级本科生), & Liang, J. Y. Forty years of sandplay therapy research: A systematic review with insights into emerging digital applications. *Arts in Psychotherapy*, 2025. (SSCI, JCR-Q2)
 - Liang, J. Y., & **He, Y. Q**📫. Symbolic and Archetypal Significance of the Naxi Dongba View of Life in China. *Jung Journal Culture and Psyche*, 2025. (A&HCI)
 - Guo, R. T., & **He, Y. Q**📫. The evolution of images grounded in sand: Case study of a 16-yearold girl with adverse childhood experiences in sandplay therapy lacking miniatures. *Journal of Psychologists and Counsellors in Schools*, 2025. (SSCI, JCR-Q2)
 - Liang, J. Y., Pan, J. L., & **He, Y. Q**📫. Utilising sandplay therapy to support children with intellectual disabilities and complex mental health needs in China’s child welfare institutions: a case study. *International Journal of Developmental Disabilities*, 2024. (SSCI, JCR-Q2)
