@@ -74,6 +74,7 @@ redirect_from:
 关注人工智能技术在心理健康领域的应用，重点探索AI沙盘、计算情感、人机交互与人机协作在心理评估、心理干预与数字心理服务中的作用机制与实践路径。
 
 ---
+- **He, Y. Q.**, He, Y, N.(2025级硕士), & Liu, D. R. Mental Health Risk Detection from Social Media Text Data: A Scoping Review of the Machine Learning Research Landscape. PsyCh Journal (SSCI, JCR-Q3). 
 - **He, Y. Q.**, He, Y, N.(2025级硕士), Song, Y. L.(2024级本科生), Liu, Q, T.(2025级本科生), & Liu, D. R. Evaluating Digital Collaboration in a Complex Systems Simulation Game: Impacts on Learning Experience, Systems Thinking, and Strategic Planning. CSCWD2026 (CCF-C). 
 - Liu, D., Woo, C. S., Saw, S. N., & **He, Y. Q**📫. Cross-subject G-softmax deep domain generalization motor imagery classification in brain–computer interfaces. *PeerJ Computer Science*, 2026. (SCI, JCR-Q2)
 - **He, Y. Q.**, Wahab, N. E. T. A., Muhamad, H., & Liu, D.R. The marital and fertility sentiment orientation of Chinese women and its influencing factors – An analysis based on natural language processing. *PLOS ONE*, 2024. (SCIE, **JCR-Q1**)
@@ -104,7 +105,7 @@ redirect_from:
 
 # 💻 学生指导
 - 王美琪 -- 2025硕士研究生（心理健康教育）
-- 何茵凝 -- 2025硕士研究生（应用心理学）发表核心会议论文1篇
+- 何茵凝 -- 2025硕士研究生（应用心理学）发表核心会议论文1篇，核心期刊论文1篇
 - 张擎天 -- 2025硕士研究生（应用心理学临床方向）
 - 陈泳诗 -- 2024硕士研究生（应用心理学临床方向）  
 
