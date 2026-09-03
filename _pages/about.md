@@ -63,7 +63,8 @@ redirect_from:
 聚焦沙盘游戏、绘画治疗等表达性治疗方法，关注象征表达、心理机制及其在临床咨询中的应用，并结合分析心理学与本土文化资源探讨心理治疗的文化适配路径
 
 ---
-- **He, Y. Q.**, Hu, Y. L., Song, Y. L.(2024级本科生), & Liang, J. Y. Forty years of sandplay therapy research: A systematic review with insights into emerging digital applications. *Arts in Psychotherapy*, 2025. (SSCI, JCR-Q2)
+- **He, Y. Q.**, Wang, M. Q.(2025级硕士), Zhang, Q. T.(2025级硕士), Cai, L. E.(2025级本科生), Xie, J. Y.(2025级本科生), Liang, J. Y., Emotional Experience, Symbolic Expression, and Collaborative Processes in Physical and Digital Sandplay Co-Creation: A Multi-Method Study. *The Arts in Psychotherapy*, 2026. (SSCI, JCR-Q2)
+- **He, Y. Q.**, Hu, Y. L., Song, Y. L.(2024级本科生), & Liang, J. Y. Forty years of sandplay therapy research: A systematic review with insights into emerging digital applications. *The Arts in Psychotherapy*, 2025. (SSCI, JCR-Q2)
 - Liang, J. Y., & **He, Y. Q**📫. Symbolic and Archetypal Significance of the Naxi Dongba View of Life in China. *Jung Journal Culture and Psyche*, 2025. (A&HCI)
 - Guo, R. T., & **He, Y. Q**📫. The evolution of images grounded in sand: Case study of a 16-yearold girl with adverse childhood experiences in sandplay therapy lacking miniatures. *Journal of Psychologists and Counsellors in Schools*, 2025. (SSCI, JCR-Q2)
 - Liang, J. Y., Pan, J. L., & **He, Y. Q**📫. Utilising sandplay therapy to support children with intellectual disabilities and complex mental health needs in China’s child welfare institutions: a case study. *International Journal of Developmental Disabilities*, 2024. (SSCI, JCR-Q2)
@@ -105,19 +106,25 @@ redirect_from:
 <span class='anchor' id='-xszd'></span>
 
 # 💻 学生指导
+- 付琼琼 -- 2026级硕士研究生（心理健康教育）
+- 徐曼怡 -- 2026级硕士研究生（应用心理学）
 - 王美琪 -- 2025级硕士研究生（心理健康教育）
+  - 2026年发表SSCI期刊论文1篇
 - 何茵凝 -- 2025级硕士研究生（应用心理学）
   - 2026年发表CCF会议论文1篇，SSCI期刊论文1篇
 - 张擎天 -- 2025级硕士研究生（应用心理学临床方向）
-- 陈泳诗 -- 2024级硕士研究生（应用心理学临床方向）  
+  - 2026年发表SSCI期刊论文1篇
 
 ---
 
 - 刘倩桐 -- 2025级本科生（应用心理学）
   - 2026年发表CCF会议论文1篇
 - 蔡乐恩 -- 2025级本科生（应用心理学）
+  - 2026年发表SSCI期刊论文1篇
 - 谢佳洋 -- 2025级本科生（应用心理学）
+  - 2026年发表SSCI期刊论文1篇
 - 宋雨璐 -- 2024级本科生（应用心理学）
+  - 2026年作为项目负责人获得中国国际大学生创新大赛广州大学校赛铜奖 《沙盘故事盒——基于 AIGC 的“叙事共写”情感表达应用》
   - 2026年作为项目负责人获得大创校级立项《大学生睡前拖延行为的心理特征研究：基于沙盘表达与脑认知活动的分析》
   - 2026年发表CCF会议论文1篇
   - 2025年发表SSCI期刊论文1篇
