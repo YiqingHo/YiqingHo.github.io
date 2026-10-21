@@ -75,6 +75,7 @@ redirect_from:
 关注人工智能技术在心理健康领域的应用，重点探索AI沙盘、计算情感、人机交互与人机协作在心理评估、心理干预与数字心理服务中的作用机制与实践路径。
 
 ---
+- **He, Y. Q.**, Liu, D. R., Wahab, N. E. T. A., & Muhamad, H. Profiling fertility anxiety in young Chinese women: evidence from latent class and random forest analyses. *Humanities and Social Sciences Communications*, 2026. (SSCI, JCR-Q1)
 - **He, Y. Q.**, He, Y. N.(2025级硕士), & Liu, D. R. Mental Health Risk Detection from Social Media Text Data: A Scoping Review of the Machine Learning Research Landscape. _PsyCh Journal_, 2026. (SSCI, JCR-Q3)
 - **He, Y. Q.**, He, Y. N.(2025级硕士), Song, Y. L.(2024级本科生), Liu, Q, T.(2025级本科生), & Liu, D. R. Evaluating Digital Collaboration in a Complex Systems Simulation Game: Impacts on Learning Experience, Systems Thinking, and Strategic Planning. _CSCWD2026_ (CCF-C). 
 - Liu, D., Woo, C. S., Saw, S. N., & **He, Y. Q**📫. Cross-subject G-softmax deep domain generalization motor imagery classification in brain–computer interfaces. *PeerJ Computer Science*, 2026. (SCI, JCR-Q2)
@@ -87,8 +88,8 @@ redirect_from:
 
 - 中国博士后科学基金面上项目（**国家级**）, 2023.06-2023.12
 - 广东省哲学社会科学规划学科共建项目（省级）, 2023.09-2025.09
-- 广州市哲学社会科学规划一般项目 (市级), 2026.07-2028.03
-- 广东省教育厅创新强校青年创新人才类项目（厅级）, 2024.09-2026.08
+- 广州市哲学社会科学规划一般项目 (市级), 2026.07-2028.07
+- 广东省教育厅创新强校青年创新人才类项目（厅级）, 2024.09-2026.09
 
 <span class='anchor' id='-xshy'></span>
 
